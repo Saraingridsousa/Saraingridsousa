@@ -1,6 +1,6 @@
 ### Oiê,eu sou a Sara Ingrid
 
-- 📔 Cursando:Ciências Exatas (UFJF)
+- 📔 Cursando: Ciências Exatas (UFJF)
 - 🤓 Atualmente estou aprendendo: Python, C++, HTML e CSS
 - 👩🏻‍💻 Buscando aprender cada vez mais sobre a área da tecnologia 
 - 📫 Juiz de Fora / Lima Duarte (MG)
