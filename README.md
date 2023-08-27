@@ -1,8 +1,8 @@
 ### Oiê,eu sou a Sara Ingrid
 
 - 📔 Cursando: Ciências Exatas (UFJF)
-- 🤓 Atualmente estudando: C++, HTML,CSS, JS e PHP
-- 👩🏻‍💻 Buscando aprender cada vez mais sobre a área da tecnologia 
+- 👩🏻‍💻 Assessora comecial e projetista na Code Junior
+- 🤓 Buscando aprender cada vez mais sobre a área da tecnologia
 - 📫 Juiz de Fora / Lima Duarte (MG)
 
 
