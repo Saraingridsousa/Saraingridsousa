@@ -1,7 +1,7 @@
 ### Oiê,eu sou a Sara Ingrid
 
 - 📔 Cursando: Ciências Exatas (UFJF)
-- 👩🏻‍💻 Gerente Comercial e Projetista na Code Junior
+- 👩🏻‍💻 Estagiária de TI - PJF
 - 🤓 Buscando aprender cada vez mais sobre a área da tecnologia
 - 📫 Juiz de Fora / Lima Duarte (MG)
 
