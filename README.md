@@ -3,7 +3,7 @@
 - 📔 Cursando: Ciências Exatas (UFJF)
 - 👩🏻‍💻 Estagiária de TI - PJF
 - 🤓 Buscando aprender cada vez mais sobre a área da tecnologia
-- 📫 Juiz de Fora / Lima Duarte (MG)
+- 📫 Juiz de Fora (MG)
 
 
 
