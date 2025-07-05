@@ -1,4 +1,4 @@
-### Oiê,eu sou a Sara Ingrid
+### Oi,eu sou a Sara Ingrid
 
 - 📔 Cursando: Ciências Exatas (UFJF)
 - 👩🏻‍💻 Estagiária de TI - PJF
