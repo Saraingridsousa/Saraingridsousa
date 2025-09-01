@@ -1,8 +1,7 @@
 ### Oi, eu sou a Sara Ingrid! 👋
 
 - 📔 Cursando: Ciências Exatas (UFJF)
-- 👩🏻‍💻 Estagiária de TI - PJF  
-- 🤓 Buscando aprender cada vez mais sobre tecnologia
+- 👩🏻‍💻 Buscando aprender cada vez mais sobre tecnologia
 - 🏆 Medalhista em Olimpíadas de Matemática
 - 📫 Juiz de Fora (MG)
 
