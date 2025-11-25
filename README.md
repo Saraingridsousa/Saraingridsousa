@@ -1,7 +1,7 @@
 ### Oi, eu sou a Sara Ingrid! 👋
 
 - 📔 Cursando: Ciências Exatas (UFJF)
-- 👩🏻‍💻 Desenvolvedors
+- 👩🏻‍💻 Desenvolvedora
 - 📫 Juiz de Fora (MG)
 
 
